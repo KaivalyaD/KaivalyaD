@@ -48,10 +48,10 @@ I am a hard-working, passionate and meticulous computer programmer and a student
 ## 🛠️ Languages :
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width = 50/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width = 50/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width = 50/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" width = 50/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" width = 50/>&nbsp;
 
 ## 🛠️ Technologies :
