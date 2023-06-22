@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Programming
 - 📫 How to reach me: kaivalya.v.deshpande@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "If you have any trouble sounding condescending, find a UNIX user to show you how it's done." (Credits: Scott Adams, Dilbert Cartoonist)
+- ⚡ Fun fact: If you have any trouble sounding condescending, find a UNIX user to show you how it's done. (Credits: Scott Adams)
