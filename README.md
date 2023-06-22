@@ -34,3 +34,11 @@ Here are some ideas to get you started:
 \____/|_|\__\/ /_/  \__,_|_.__/  \/    |_|  \___/|_| |_|_|\___|
                                                                
 ````
+- 🔭 I’m currently working on C & C++
+- 🌱 I’m currently learning OpenGL/GLSL, Direct3D11/HLSL, CUDA & OpenCL
+- 👯 I’m looking to collaborate on Computer Graphics, Heterogeneous Parallel Computing, System Programming
+- 🤔 I’m looking for help with Vulkan, Metal, Direct3D12
+- 💬 Ask me about Programming
+- 📫 How to reach me: kaivalya.v.deshpande@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: "If you have any trouble sounding condescending, find a UNIX user to show you how it's done." (Credits: Scott Adams, Dilbert Cartoonist)
