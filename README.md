@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 ````
 ## 🧑 About Me :
 I am a hard-working, passionate and meticulous computer programmer and a student for life.
-- 🔭 I’m currently working on Linux (Arch) with C & C++
-- 🌱 I’m currently learning OpenGL/GLSL, Direct3D11/HLSL, CUDA & OpenCL
-- 👯 I’m looking to collaborate on Computer Graphics, Heterogeneous Parallel Computing, System Programming
-- 🤔 I’m looking for help with Vulkan, Metal, Direct3D12
+- 🔭 I’m currently working on Linux (Arch, by the way ;) with C & C++
+- 🌱 I’m currently learning OpenGL/GLSL, Direct3D 11/HLSL, CUDA & OpenCL
+- 👯 I’m looking to collaborate on Computer Graphics
+- 🤔 I’m looking for help with Vulkan, Metal, Direct3D 12
 - 💬 Ask me about Programming
 - 📫 How to reach me: kaivalya.v.deshpande@gmail.com
 - 😄 Pronouns: He/Him
