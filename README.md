@@ -40,4 +40,6 @@ I like to program computers.
 - I like to learn. Currently, Vulkan.
 - My E-Mail: kaivalya.v.deshpande@gmail.com
 - Pronouns: I don't care.
-- And of course, a Unix Quote: \`If you have any trouble sounding condescending, find a UNIX user to show you how it's done.\` (Credits: Scott Adams)
+
+## Fun Unix Quote:
+\`If you have any trouble sounding condescending, find a UNIX user to show you how it's done.\` (Credits: Scott Adams)
