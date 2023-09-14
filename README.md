@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ## About Me :
 I like to program computers.
 - My choice is Linux and I am an Arch fan.
+- When at work, JavaScript. When at home, C and C++.
 - I like to learn. Currently, Vulkan.
 - My E-Mail: kaivalya.v.deshpande@gmail.com
 
