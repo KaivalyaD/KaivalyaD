@@ -39,7 +39,6 @@ I like to program computers.
 - My choice is Linux and I am an Arch fan.
 - I like to learn. Currently, Vulkan.
 - My E-Mail: kaivalya.v.deshpande@gmail.com
-- My Pronouns: I don't care.
 
-## Fun Unix Quote:
-\`If you have any trouble sounding condescending, find a UNIX user to show you how it's done.\` (Credits: Scott Adams)
+## A Fun Unix Quote:
+If you have any trouble sounding condescending, find a UNIX user to show you how it's done. (Credits: Scott Adams)
