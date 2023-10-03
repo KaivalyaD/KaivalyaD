@@ -35,8 +35,8 @@ Here are some ideas to get you started:
                                                                
 ````
 ## About Me :
-I program computers.
-- I use Linux, particularly Arch
+I program computers to put pretty pictures on screen.
+- I like Linux, particularly Arch
 - At work, I use JavaScript. At home, I use C++
 - I would like to collaborate on:
    - Creating Game Engines from the absolute scratch -Projects;
