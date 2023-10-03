@@ -38,3 +38,7 @@ Here are some ideas to get you started:
 I program computers.
 - I use Linux, particularly Arch
 - At work, I use JavaScript. At home, I use C++
+- I would like to collaborate on:
+   - Creating Game Engines from the absolute scratch -Projects;
+   - OpenGL, WebGL, GLES, DirectX, Vulkan (traditional rendering pipeline) Projects; and
+   - DirectX, Vulkan (ray-tracing pipeline) Projects.
