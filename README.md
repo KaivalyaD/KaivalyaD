@@ -35,11 +35,6 @@ Here are some ideas to get you started:
                                                                
 ````
 ## About Me :
-I like to program computers.
-- My choice is Linux and I am an Arch fan.
-- When at work, JavaScript. When at home, C and C++.
-- I like to learn new technology. Currently, that is Vulkan.
-- My E-Mail: kaivalya.v.deshpande@gmail.com
-
-## A Fun Unix Quote:
-If you have any trouble sounding condescending, find a UNIX user to show you how it's done. (Credits: Scott Adams)
+I program computers.
+- I use Linux, particularly Arch
+- At work, I use JavaScript. At home, I use C++
